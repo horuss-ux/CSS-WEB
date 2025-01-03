@@ -1,0 +1,52 @@
+@font-face {
+    font-family: ChineseRocks;
+    src: url(chineserocksrg.ttf);
+}
+
+header{
+    background-color: rgba(255,0,0,.5);
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-family:ChineseRocks ;
+}
+
+body{
+    background-color: #000;
+    color:rgb(255, 255, 255);
+    font-family: ChineseRocks;
+}
+
+p{
+    line-height: 140%;
+}
+
+h1{
+    text-align:center;
+}
+
+main{
+    text-align: center;
+}
+
+figcaption{
+    font-size: x-large ;
+}
+
+footer{
+    text-align: center;
+}
+
+nav{
+    display: inline;
+    background-color: rgba(255,0,0,.5);
+}
+
+li{
+    display: inline;
+    color:rgb(255, 255, 255) ;
+}
+
+figure{
+    display:inline;
+    width: 300px;
+}
